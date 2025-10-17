@@ -1,1 +1,14 @@
-{}
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "First Blog Post",
+            "body": "This is my first blog content."
+        },
+        {
+            "id": 2,
+            "title": "Second Blog Post",
+            "body": "This is my second blog content."
+        }
+    ]
+}
